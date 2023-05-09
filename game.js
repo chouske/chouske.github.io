@@ -166,7 +166,7 @@ class room1 extends AdventureScene{
         this.load.image('jaguardoor', 'JaguarDoor.png')
         this.load.image('tree', 'Tree.png')
         this.load.image('peanut', 'Peanut.png')
-        this.load.image('backpack', "Backpack.png")
+        this.load.image('backpack', "BackPack.png")
         
     }
     shake(theobj){
