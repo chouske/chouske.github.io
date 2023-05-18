@@ -3,4 +3,4 @@ Continuous inputs include going left and right, and discrete inputs are for jump
 The goal is achieved by moving the player to pickup all the apples in each stage
 There are story scenes to contextualize the gameplay scenes
 There are 3 physics based levels
-I drew all of my assets, a few were from the previous project but not many
+I drew all of my assets in the program paint.net, and a few were from the previous project but not many, and were also drawn in paint.net
